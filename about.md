@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a third year undergraduate student currently studying at UCLA and majoring in computer science. 
+I'm a third year undergraduate student currently studying at IMT Atlantique and majoring in Data Science. 
 
-I'm passionate about applying my knowledge of computer science and machine learning to areas in healthcare where we can really engineer better solutions for helping doctors and taking care of patients. In my mind, machine learning and computer science really have the power to make the gradual shift to preventative instead of reactionary healthcare. If you're working in the healthcare or medical fields, don't hesitate to reach out if you think there's an opportunity for collaboration. Would love to discuss.
+I'm passionate about applying my knowledge of Data Science and machine learning to many areas such as industrial, healthcare and climat.
 
-**Email me if you're looking to collaborate on future projects. Always open to new opportunities**
+**Email me if you're looking for a Data Scientist. Always open to new opportunities**
 
 ### Internships
 
@@ -71,15 +71,8 @@ As part of ACM AI, we hold research paper reading group meetings.
 
 <img src="/assets/Workshop.jpg">
 
-### Books I'd Highly Recommend
 
-* *When Breath Becomes Air* - Paul Kalanithi
-* *Option B* - Sheryl Sandberg
-* *Quiet: The Power of Introverts in a World That Can't Stop Talking* - Susan Cain
-* *Emotional Agility* - Susan David
-* *Chasing the Scream* - Johann Hari
-* *The Elegant Universe* - Brian Greene
 
 ### Contact me
 
-[adeshpande3@ucla.edu](mailto:adeshpande3@ucla.edu)
+[riahilouriz@gmail.com](mailto:riahilouriz@gmail)
